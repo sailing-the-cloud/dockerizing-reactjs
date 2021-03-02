@@ -54,3 +54,14 @@ export const CardStyle = styled.div`
         margin-bottom: 5px;
     }
 `
+
+export const Carousel = styled.div`
+    margin: auto;
+    padding: 20px;
+    width: 80%;
+
+    .slick-prev:before,
+    .slick-next:before {
+        color: black;
+    }
+`

@@ -46,6 +46,8 @@ $ After running you can access the web :D
 * NPM
 * Ant Design
 * Styled Components React
+* React Slick
+* Slick Carousel
 
 ## Developer
 Customized by Reza Nur Rochmat.
