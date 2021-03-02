@@ -44,6 +44,8 @@ $ After running you can access the web :D
 * Babel Compiler
 * Docker
 * NPM
+* Ant Design
+* Styled Components React
 
 ## Developer
 Customized by Reza Nur Rochmat.
